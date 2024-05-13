@@ -1,0 +1,15 @@
+langchain
+langchain_experimental
+langchainhub
+langchain-google-genai
+google-generativeai
+pinecone-client
+python-dotenv
+streamlit
+faiss-cpu
+tiktoken
+PyPDF2
+python-dotenv
+streamlit-extras
+docx2txt
+pypdf
